@@ -1,0 +1,15 @@
+.dashboard{
+	padding:24px;
+	background-color:skyblue;
+}
+
+.link{
+	padding:10px;
+	color:blueviolet;
+	font-family:arial;
+	font-weight:bold;
+	text-decoration-line:none;
+	margin:10px;
+	border-style:solid;
+	border-radius:10px;
+}
